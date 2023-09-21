@@ -11,7 +11,7 @@ The United States Geological Survey (USGS) plays a pivotal role in providing ess
     * Include popups that provide additional information about the earthquake when its associated marker is clicked.
     * Create a legend that will provide context for your map data.
     
-![Eartquake Map](/leaflet-challenge/Images/finalMapPart1.png)
+![Eartquake Map](/leaflet-challenge/finalMapPart1.png)
 
 
 ### Refrences: 
